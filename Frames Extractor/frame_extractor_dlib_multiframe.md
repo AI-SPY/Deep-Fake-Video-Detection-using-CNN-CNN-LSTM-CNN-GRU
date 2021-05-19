@@ -1,4 +1,4 @@
-This code extracts 30 frames from each of the video.(Why 30?)
+This code extracts 30 frames from each of the video.
 
 It uses "mmod_human_face_detector" face detector model.
 
